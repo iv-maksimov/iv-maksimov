@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>foo</title><link href="/" rel="alternate"></link><link href="/feeds%5Ckate-muzuchenko.atom.xml" rel="self"></link><id>/</id><updated>2010-12-03T10:20:00+03:00</updated><entry><title>Дата хуята</title><link href="/data-khuiata.html" rel="alternate"></link><updated>2010-12-03T10:20:00+03:00</updated><author><name>Kate Muzuchenko</name></author><id>tag:,2010-12-03:data-khuiata.html</id><summary type="html">&lt;p&gt;Matplotlib!!!dv
+dfvdss dsasd df вам
+ 1. 1-й элемент нумерованного списка
+ 2. 2-й элемент нумерованного списка
+ 3. туда сюда&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;sdfv&lt;/p&gt;</summary><category term="matplotlib"></category><category term="publishing"></category><category term="data"></category></entry></feed>

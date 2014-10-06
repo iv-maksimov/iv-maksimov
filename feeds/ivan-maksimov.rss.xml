@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>foo</title><link>/</link><description></description><atom:link href="/feeds%5Civan-maksimov.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 03 Dec 2010 10:20:00 +0300</lastBuildDate><item><title>Data</title><link>/data.html</link><description>&lt;h2&gt;Matplotlib!!!dv&lt;/h2&gt;
+&lt;p&gt;dfvdss dsasd df 
+ 1. 1-й элемент нумерованного списка
+ 2. 2-й элемент нумерованного списка
+ 3. туда сюда&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;sdfv&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan Maksimov</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0300</pubDate><guid>tag:,2010-12-03:data.html</guid><category>matplotlib</category><category>publishing</category><category>data</category></item><item><title>Matplotlib</title><link>/matplotlib.html</link><description>&lt;h2&gt;Matplotlib!!!&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;1-й элемент нумерованного списка&lt;/li&gt;
+&lt;li&gt;2-й элемент нумерованного списка&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;туда сюда&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;элемент маркированного списка&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan Maksimov</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0300</pubDate><guid>tag:,2010-12-03:matplotlib.html</guid><category>pelican</category><category>publishing</category></item><item><title>Matplotlib python</title><link>/matplotlib-python.html</link><description>&lt;h2&gt;Matplotlib!!!dv&lt;/h2&gt;
+&lt;p&gt;dfvds
+ 1. 1-й элемент нумерованного списка
+ 2. 2-й элемент нумерованного списка
+ 3. туда сюда&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;sdfv&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan Maksimov</dc:creator><pubDate>Fri, 03 Dec 2010 10:20:00 +0300</pubDate><guid>tag:,2010-12-03:matplotlib-python.html</guid><category>matplotlib</category><category>publishing</category></item></channel></rss>

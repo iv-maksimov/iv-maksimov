@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>foo</title><link href="/" rel="alternate"></link><link href="/feeds%5Civan-maksimov.atom.xml" rel="self"></link><id>/</id><updated>2010-12-03T10:20:00+03:00</updated><entry><title>Data</title><link href="/data.html" rel="alternate"></link><updated>2010-12-03T10:20:00+03:00</updated><author><name>Ivan Maksimov</name></author><id>tag:,2010-12-03:data.html</id><summary type="html">&lt;h2&gt;Matplotlib!!!dv&lt;/h2&gt;
+&lt;p&gt;dfvdss dsasd df 
+ 1. 1-й элемент нумерованного списка
+ 2. 2-й элемент нумерованного списка
+ 3. туда сюда&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;sdfv&lt;/p&gt;</summary><category term="matplotlib"></category><category term="publishing"></category><category term="data"></category></entry><entry><title>Matplotlib</title><link href="/matplotlib.html" rel="alternate"></link><updated>2010-12-03T10:20:00+03:00</updated><author><name>Ivan Maksimov</name></author><id>tag:,2010-12-03:matplotlib.html</id><summary type="html">&lt;h2&gt;Matplotlib!!!&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;1-й элемент нумерованного списка&lt;/li&gt;
+&lt;li&gt;2-й элемент нумерованного списка&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;туда сюда&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;элемент маркированного списка&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;/ol&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>Matplotlib python</title><link href="/matplotlib-python.html" rel="alternate"></link><updated>2010-12-03T10:20:00+03:00</updated><author><name>Ivan Maksimov</name></author><id>tag:,2010-12-03:matplotlib-python.html</id><summary type="html">&lt;h2&gt;Matplotlib!!!dv&lt;/h2&gt;
+&lt;p&gt;dfvds
+ 1. 1-й элемент нумерованного списка
+ 2. 2-й элемент нумерованного списка
+ 3. туда сюда&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;li&gt;элемент маркированного списка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;sdfv&lt;/p&gt;</summary><category term="matplotlib"></category><category term="publishing"></category></entry></feed>
