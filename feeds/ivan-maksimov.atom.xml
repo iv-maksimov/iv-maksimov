@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>foo</title><link href="/" rel="alternate"></link><link href="/feeds%5Civan-maksimov.atom.xml" rel="self"></link><id>/</id><updated>2014-10-17T10:20:00+04:00</updated><entry><title>efoshkin lalka</title><link href="/efoshkin-lalka.html" rel="alternate"></link><updated>2014-10-17T10:20:00+04:00</updated><author><name>Ivan Maksimov</name></author><id>tag:,2014-10-17:efoshkin-lalka.html</id><summary type="html">&lt;h2&gt;SASI&lt;/h2&gt;
-&lt;div class = "frame center"&gt;&lt;iframe width="420" height="315" src="//www.youtube.com/embed/85swsl4UW30" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-
-&lt;p&gt;[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]&lt;/p&gt;
-&lt;p&gt;{% youtube K7vU2cDIyjU [688] [387] %}&lt;/p&gt;
-&lt;p&gt;[soundcloud url]="http://api.soundcloud.com/tracks/78131362"&lt;/p&gt;</summary><category term="lalka"></category><category term="underdog"></category></entry><entry><title>test</title><link href="/test.html" rel="alternate"></link><updated>2014-10-17T10:20:00+04:00</updated><author><name>Ivan Maksimov</name></author><id>tag:,2014-10-17:test.html</id><summary type="html">&lt;h1&gt;Welcome to StackEdit!&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>foo</title><link href="/" rel="alternate"></link><link href="/feeds%5Civan-maksimov.atom.xml" rel="self"></link><id>/</id><updated>2014-10-17T10:20:00+04:00</updated><entry><title>test</title><link href="/test.html" rel="alternate"></link><updated>2014-10-17T10:20:00+04:00</updated><author><name>Ivan Maksimov</name></author><id>tag:,2014-10-17:test.html</id><summary type="html">&lt;h1&gt;Welcome to StackEdit!&lt;/h1&gt;
 &lt;p&gt;Hey! I'm your first Markdown document in &lt;strong&gt;StackEdit&lt;/strong&gt;&lt;sup id="fnref:stackedit"&gt;&lt;a class="footnote-ref" href="#fn:stackedit" rel="footnote"&gt;2&lt;/a&gt;&lt;/sup&gt;. Don't delete me, I'm very helpful! I can be recovered anyway in the &lt;strong&gt;Utils&lt;/strong&gt; tab of the &lt;i class="icon-cog"&gt;&lt;/i&gt; &lt;strong&gt;Settings&lt;/strong&gt; dialog.&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h2&gt;Documents&lt;/h2&gt;
