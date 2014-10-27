@@ -38,6 +38,9 @@
 </head>
 <body>
 
+
+
+
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
@@ -52,14 +55,11 @@ foo            </a>
         </div>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
-                         <li><a href="/pages/about_me.html">
-                             About Me
+                         <li><a href="/">
+                             _about
                           </a></li>
                         <li >
-                            <a href="/category/data-science.html">Data science</a>
-                        </li>
-                        <li >
-                            <a href="/category/python.html">Python</a>
+                            <a href="/category/_blog.html">_blog</a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
@@ -76,20 +76,19 @@ foo            </a>
 	
 	<div class="jumbotron">
             <article>
-                <h2><a href="/matplotlib.html">Matplotlib</a></h2>
-                <div class="summary"><h2>Matplotlib!!!</h2>
-<ol>
-<li>1-й элемент нумерованного списка</li>
-<li>2-й элемент нумерованного списка</li>
-<li>
-<p>туда сюда</p>
-</li>
-<li>
-<p>элемент маркированного списка</p>
-</li>
-<li>элемент маркированного списка</li>
-</ol>
-                    <a class="btn btn-default btn-xs" href="/matplotlib.html">more ...</a>
+                <h2><a href="/starting-with-pelican.html">Starting with Pelican</a></h2>
+                <div class="summary"><div class="section" id="introduction">
+<h2>Introduction</h2>
+<p>Hi!
+.. code-block:: python
+print(&quot;Hello world!&quot;)
+And this is a link to a _page
+.. _page: <a class="reference external" href="http://www.google.com/">http://www.google.com/</a>
+<a class="reference external" href="/pdata/file.tar.gz">a link to content</a>
+[soundcloud url=&quot;<a class="reference external" href="http://api.soundcloud.com/tracks/78131362">http://api.soundcloud.com/tracks/78131362</a>&quot;]</p>
+</div>
+
+                    <a class="btn btn-default btn-xs" href="/starting-with-pelican.html">more ...</a>
                 </div>
             </article>
             <hr/>
@@ -144,35 +143,49 @@ foo            </a>
 
 <section class="well well-sm">
     <ul class="list-group list-group-flush">
-            <li class="list-group-item"><h4><i class="fa fa-home fa-lg"></i><span class="icon-label">Social</span></h4>
-              <ul class="list-group" id="social">
-                <li class="list-group-item"><a href="https://github.com/iv-maksimov"><i class="fa fa-github-square fa-lg"></i> GitHub</a></li>
-                <li class="list-group-item"><a href="http://vk.com/id18708415"><i class="fa fa-vk-square fa-lg"></i> vk</a></li>
-              </ul>
-            </li>
 
 
 
-            <li class="list-group-item"><a href="/"><h4><i class="fa fa-tags fa-lg"></i><span class="icon-label">Tags</span></h4></a>
+            <li class="list-group-item"><p href="/"><h4><i class="fa fa-tags fa-lg"></i><p class="lead text-center">tag cloud</p></h4></p>
                 <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-1">
-                        <a href="/tag/publishing.html">
-                            publishing
+                    <li class="list-group-item tag-1 text-muted">
+                        <a href="/tag/underdog.html">
+                            underdog
                         </a>
                     </li>
-                    <li class="list-group-item tag-1">
-                        <a href="/tag/matplotlib.html">
-                            matplotlib
+                    <li class="list-group-item tag-1 text-muted">
+                        <a href="/tag/lalka.html">
+                            lalka
                         </a>
                     </li>
-                    <li class="list-group-item tag-2">
-                        <a href="/tag/data.html">
-                            data
+                    <li class="list-group-item tag-4 text-muted">
+                        <a href="/tag/blog.html">
+                            blog
                         </a>
                     </li>
-                    <li class="list-group-item tag-4">
+                    <li class="list-group-item tag-4 text-muted">
+                        <a href="/tag/thats.html">
+                            thats
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4 text-muted">
                         <a href="/tag/pelican.html">
                             pelican
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4 text-muted">
+                        <a href="/tag/wasmannia.html">
+                            wasmannia
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4 text-muted">
+                        <a href="/tag/rst.html">
+                            rst
+                        </a>
+                    </li>
+                    <li class="list-group-item tag-4 text-muted">
+                        <a href="/tag/awesome.html">
+                            awesome
                         </a>
                     </li>
                 </ul>
@@ -183,12 +196,20 @@ foo            </a>
         </div>
     </div>
 </div>
-<footer class="footer showcase showcase--gray-900 ng-scope">
-   <div class="container row text--center">
-      <hr>
-      <div class="row">
-         <div class="col-xs-10">&copy; 2010 iv-maksimov         </div>
-         <div class="col-xs-2"><p class="pull-right"></i> <a href="#" class="btn btn-info">Back to top</a></p></div>
+<footer class="footer"> 
+    <div class="container">
+	<div class="row text-center">&#8194;</div>
+        <div class="row text-center">
+		<div class="lead">&copy; 2014 iv-maksimov</div>
+         <!--<div class="col-xs-2"><p class="pull-right"></i> <a href="#" class="btn btn-info">Back to top</a></p></div>-->
+      </div>
+      <div class="row text-center">
+	<a target="_blank" href="http://vk.com/id18708415"><img class="social-icon" src="../images/1413502319_vkontakte.png">
+        </a>
+	<h>&#8194;&#8194;&#8194;</h>
+	<a target="_blank" href="https://github.com/iv-maksimov"><img class="social-icon" src="../images/1413502277_github.png">
+        </a>
+
       </div>
    </div>
 </footer>

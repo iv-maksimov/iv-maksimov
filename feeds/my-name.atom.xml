@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>foo</title><link href="/" rel="alternate"></link><link href="/feeds%5Cmy-name.atom.xml" rel="self"></link><id>/</id><updated>2014-01-20T23:47:00+04:00</updated><entry><title>Starting with Pelican</title><link href="/starting-with-pelican.html" rel="alternate"></link><updated>2014-01-20T23:47:00+04:00</updated><author><name>My name</name></author><id>tag:,2014-01-20:starting-with-pelican.html</id><summary type="html">&lt;div class="section" id="introduction"&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Hi!
+.. code-block:: python
+print(&amp;quot;Hello world!&amp;quot;)
+And this is a link to a _page
+.. _page: &lt;a class="reference external" href="http://www.google.com/"&gt;http://www.google.com/&lt;/a&gt;
+&lt;a class="reference external" href="/pdata/file.tar.gz"&gt;a link to content&lt;/a&gt;
+[soundcloud url=&amp;quot;&lt;a class="reference external" href="http://api.soundcloud.com/tracks/78131362"&gt;http://api.soundcloud.com/tracks/78131362&lt;/a&gt;&amp;quot;]&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="wasmannia"></category><category term="blog"></category><category term="rst"></category><category term="pelican"></category></entry></feed>
