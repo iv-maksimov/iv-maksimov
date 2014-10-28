@@ -2,7 +2,7 @@
 <html lang="ru"
 >
 <head>
-    <title>_blog - foo</title>
+    <title>foo</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -13,8 +13,7 @@
 
 
 
-    <meta name="author" content="iv-maksimov" />
-    <meta name="keywords" content="_blog" />
+        <meta name="author" content="iv-maksimov" />
 
     <!-- Open Graph tags -->
         <meta property="og:site_name" content="foo" />
@@ -36,11 +35,10 @@
 
 
 </head>
+
+
 <body>
-
-
-
-
+<div id="wrapper">
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
@@ -56,10 +54,13 @@ foo            </a>
         <div class="collapse navbar-collapse navbar-ex1-collapse">
             <ul class="nav navbar-nav">
                          <li><a href="/">
-                             _about
+                             About
                           </a></li>
-                        <li class="active">
-                            <a href="/category/_blog.html">_blog</a>
+                         <li class="active"><a href="/pages/contact.html">
+                             Contact
+                          </a></li>
+                        <li >
+                            <a href="/category/blog.html">Blog</a>
                         </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
@@ -71,94 +72,72 @@ foo            </a>
 </div> <!-- /.navbar -->
 
 <div class="container">
-    <div class="row"> 
-        <div class="col-sm-9">
-	
-	<div class="jumbotron">
-            <article>
-                <h2><a href="/test.html">test</a></h2>
-                <div class="summary"><h1>Welcome to StackEdit!</h1>
-<p>Hey! I'm your first Markdown document in <strong>StackEdit</strong><sup id="fnref:stackedit"><a class="footnote-ref" href="#fn:stackedit" rel="footnote">2</a></sup>. Don't delete me, I'm very helpful! I can be recovered anyway in the <strong>Utils</strong> tab of the <i class="icon-cog"></i> <strong>Settings</strong> dialog.</p>
-<hr />
-<h2>Documents</h2>
-<p>StackEdit stores your documents in your browser, which means all your documents are automatically saved ...</p>
-                    <a class="btn btn-default btn-xs" href="/test.html">more ...</a>
-                </div>
-            </article>
-            <hr/>
 
-	</div>
+	<div class="row">
+	<div class="col-sm-12">
+
+
+	<div class="jumbotron">
+
+		<h1 class="lead text-center">Contacts</h1>
+		<img class="img-responsive img-full" src="/images/contact.jpg" alt="Smiley face">
+
+		<div class="row">
+               <div class="col-sm-6">
+
+                            <h2 class="text-center">Impressum</h2>
+
+
+		
+<div class="list-group">
+    <div class="list-group-item">
+        <div class="row-action-primary">
+            <i class="mdi-communication-email"></i>
         </div>
-	
-	<div class="col-sm-3">
-	<div class="jumbotron">
-<style type="text/css">
-		.blocktext {
-    			margin-left: auto;
-    			margin-right: auto
-		}
-		.thatcher {
-		    overflow: hidden;
-		}
-		.thatcher img {
-			width: 100%;
-			max-width: 259px;
-			border-radius: 50%;
-			display: block;
-			margin: 0 auto 1.5em;
-			-webkit-transition: all 0.5s ease-in-out;
-			-moz-transition: all 0.5s ease-in-out;
-			-ms-transition: all 0.5s ease-in-out;
-			-o-transition: all 0.5s ease-in-out;
-			transition: all 0.5s ease-in-out;	
-		}
-		.thatcher img:hover {
-			-moz-transform: rotate(540deg);
-			-webkit-transform: rotate(540deg);
-			-o-transform: rotate(540deg);
-			-ms-transform: rotate(540deg);
-			transform: rotate(540deg);
-		}			
+        <div class="row-content">
 
-</style>
-<div class="text-center">
-<div class="blocktext" id="center">
-	<div class="thatcher">
-		<img src="../images/prof.jpg">
-	</div>
-	
-		<a href="/pages/about_me.html" class="btn btn-default">Ivan Maksimov</a>
-</div>
-</div>	</div>
-	</div>
-
-        <div class="col-sm-3" id="sidebar">
-            <aside>
-
-<section class="well well-sm">
-    <ul class="list-group list-group-flush">
-
-
-
-            <li class="list-group-item"><p href="/"><h4><i class="fa fa-tags fa-lg"></i><p class="lead text-center">tag cloud</p></h4></p>
-                <ul class="list-group " id="tags">
-                    <li class="list-group-item tag-4 text-muted">
-                        <a href="/tag/lalka.html">
-                            lalka
-                        </a>
-                    </li>
-                    <li class="list-group-item tag-4 text-muted">
-                        <a href="/tag/underdog.html">
-                            underdog
-                        </a>
-                    </li>
-                </ul>
-            </li>
-    </ul>
-</section>
-            </aside>
+            <h4 class="list-group-item-heading">email</h4>
+            <p class="list-group-item-text">iv_maksimov@mail.ru</p>
         </div>
     </div>
+    <div class="list-group-separator"></div>
+    <div class="list-group-item">
+        <div class="row-action-primary">
+            <i class="mdi-communication-location-on"></i>
+        </div>
+        <div class="row-content">            
+            <h4 class="list-group-item-heading">location</h4>
+            <p class="list-group-item-text">Russia, Moscow</p>
+        </div>
+    </div>
+    <div class="list-group-separator"></div>
+</div>
+
+
+		</div>
+
+		   <div class="col-sm-6">
+                        <h2 class="text-center">Ivan Maksimov</h2>
+				<p class="text-center">engineer and data scientist</p>
+
+                    </div>
+
+
+
+
+
+	       </div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
 </div>
 <footer class="footer"> 
     <div class="container">
@@ -177,6 +156,7 @@ foo            </a>
       </div>
    </div>
 </footer>
+
 <script src="/theme/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
@@ -189,6 +169,8 @@ foo            </a>
 
 <script src="/theme/js/ripples.min.js"></script>
 <script src="/theme/js/material.min.js"></script>
+
+
 
 </body>
 </html>
